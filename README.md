@@ -45,5 +45,7 @@ Siga estes passos para configurar o projeto em sua máquina local:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cafe-delicia.git
+   git clone https://github.com/GladistonXD/cafe.git
    cd cafe-delicia
+   npm install
+   npm run dev
